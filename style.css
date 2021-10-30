@@ -1,3 +1,7 @@
+body {
+  font-family: Helvetica;;
+}
+
 h1 {
   font-family: Helvetica;
   font-size: 100px;
@@ -7,18 +11,28 @@ h1 {
   background-image: url('./image/pattern.jpg'); 
 }
 
-span {
-  font-weight: bold;
-  color: blue;
-}
-
-body {
-  font-family: Helvetica;;
-}
-
 .brushes h2 {
   font-size: 32px;
   font-weight: bold;
   color: white;
   background-color: mediumspringgreen;
+}
+
+.frames h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+
+.paint h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
+
+span {
+  font-weight: bold;
+  color: blue;
 }
